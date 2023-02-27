@@ -4,6 +4,7 @@ import lombok.experimental.UtilityClass;
 
 import java.util.TreeMap;
 
+@Deprecated
 @UtilityClass
 public class RomanUtil {
 
