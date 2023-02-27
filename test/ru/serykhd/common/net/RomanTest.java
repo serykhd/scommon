@@ -1,7 +1,7 @@
 package ru.serykhd.common.net;
 
 import org.openjdk.jmh.annotations.Benchmark;
-import ru.serykhd.common.RomanUtil;
+import ru.serykhd.common.string.RomanUtil;
 
 public class RomanTest {
 

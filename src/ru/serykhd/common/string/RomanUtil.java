@@ -1,4 +1,4 @@
-package ru.serykhd.common;
+package ru.serykhd.common.string;
 
 import lombok.experimental.UtilityClass;
 
